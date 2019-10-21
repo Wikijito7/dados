@@ -1,2 +1,2 @@
 # dados-
-Let's make game dies great again.
+Let's make dices great again.
